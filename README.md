@@ -22,10 +22,6 @@ To run this project locally:
 
 1. Clone the repository:
    https://github.com/E-beep-web/music-player.git
-   
-This project is licensed under the MIT License - see the LICENSE file for details.
-Author
-Eshani Paul
 
 Feel free to check out my GitHub for more projects.
 
