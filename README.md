@@ -8,8 +8,6 @@ This is a simple and interactive music player built using **HTML**, **CSS**, and
 - **Play/Pause:** Control the playback of music tracks.
 - **Skip Tracks:** Move to the next or previous track in the playlist.
 - **Volume Control:** Adjust the volume of the player.
-- **Progress Bar:** See the progress of the current song and move to different parts of the track.
-- **Playlist Navigation:** Easily switch between different songs in the playlist.
 - **Responsive Design:** The player is fully responsive and works on both desktop and mobile devices.
 
 ## Technologies Used
@@ -23,8 +21,7 @@ This is a simple and interactive music player built using **HTML**, **CSS**, and
 To run this project locally:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/music-player.git
+   https://github.com/E-beep-web/music-player.git
    
 This project is licensed under the MIT License - see the LICENSE file for details.
 Author
@@ -33,7 +30,7 @@ Eshani Paul
 Feel free to check out my GitHub for more projects.
 
 ### Instructions to Use:
-1. Replace `your-username` in the repository URL and GitHub link with your actual GitHub username.
+1. Replace `E-beep-web` in the repository URL and GitHub link with your actual GitHub username.
 2. You can add further details or instructions if needed, such as how to add songs to the player or extend its features.
 
 This `README.md` should provide a clear description of your project and guide others who may view it on GitHub.
