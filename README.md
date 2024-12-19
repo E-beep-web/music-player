@@ -29,4 +29,9 @@ Feel free to check out my GitHub for more projects.
 1. Replace `E-beep-web` in the repository URL and GitHub link with your actual GitHub username.
 2. You can add further details or instructions if needed, such as how to add songs to the player or extend its features.
 
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to customize this README file to fit your project's specifics.
 This `README.md` should provide a clear description of your project and guide others who may view it on GitHub.
